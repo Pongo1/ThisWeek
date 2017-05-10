@@ -1,0 +1,20 @@
+
+.container{
+
+
+
+	border : solid 3px black;
+	border-top-width: 10px;
+	border-bottom-right-radius: 40px;
+
+	border-bottom-left-radius: 40px;
+	margin-top:60px;
+}
+#inMessage{
+	display:none;
+}
+#bounceMessage{
+
+
+	display:none;
+}
